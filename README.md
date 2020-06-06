@@ -5,6 +5,8 @@ The main purpose of this project is to search a required data set in a large fil
 Depending on the search which and primary index or secondary index , a uniquely generated or a common data set can be retrieved. So the required software and hardware are easy to work.
 
 requirements: os- windows,java IDE
+
+
 STEPS TO RUN OR STEP BY STEP PROCESS:
 1. click on clone or download
 2. the file will be in zip format , extract the file.
